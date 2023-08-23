@@ -15,3 +15,6 @@ Weslley Moreira
 - [Conversão de Libras em Kg](https://scratch.mit.edu/projects/884968444/)
 - [Lucro](https://scratch.mit.edu/projects/884969401/)
 - [APP da prova](https://scratch.mit.edu/projects/884979183/)
+
+## A Hora do Código
+![Certificado](https://github.com/wesp1201/scratch/blob/main/assets/icons/certificado-hora%20da%20progama%C3%A7ao.jpg)
