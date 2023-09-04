@@ -18,6 +18,7 @@ Weslley Moreira
 - [Conversao de Real para Euro](https://scratch.mit.edu/projects/888450208/)
 - [AND](https://scratch.mit.edu/projects/888054150/)
 - [OR](https://scratch.mit.edu/projects/888078413/)
+- [Voto](https://scratch.mit.edu/projects/889252956/)
 
 ## A Hora do Código
 ![Certificado](https://github.com/wesp1201/scratch/blob/main/assets/icons/certificado-hora%20da%20progama%C3%A7ao.jpg)
